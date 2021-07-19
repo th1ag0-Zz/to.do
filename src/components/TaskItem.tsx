@@ -123,7 +123,6 @@ const styles = StyleSheet.create({
   taskButton: {
     flex: 1,
     paddingHorizontal: 24,
-    paddingVertical: 15,
     marginBottom: 4,
     borderRadius: 4,
     flexDirection: 'row',
