@@ -16,13 +16,13 @@ to.do é um App para anotar, editar e deletar tarefas.
 
 ## :hammer_and_wrench: Features 
 
-em construção...
+- [ ] Adicionar / Deletar / Apagar Tarefa
 
 
 ## ✨ Tecnologias
 
--   [ ] React Native
--   [ ] Typescript
+- [ ] React Native
+- [ ] Typescript
 
 ## Executando o projeto
 
